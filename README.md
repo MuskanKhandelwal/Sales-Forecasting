@@ -1,4 +1,4 @@
-# Sales Forecasting
+# Sales Forecasting (ARIMA/Exponential Smoothing)
 
 ## Problem Statement
 Predicting future sales is crucial for a company to manage inventory, calculate revenue, and plan investments. Accurate sales forecasting helps a company avoid financial losses by understanding seasonal variations in sales. This is especially critical for large companies like Walmart. Predicting sales can positively impact stock prices and investor perceptions by meeting predetermined targets. Conversely, failing to meet targets can damage stock prices significantly.
